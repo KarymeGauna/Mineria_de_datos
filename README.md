@@ -4,4 +4,4 @@
  [EJERCICIO REGLA DE ASOCIACIÓN] :(https://github.com/KarymeGauna/Mineria_de_datos/blob/master/Ejercicios1_1_003.pdf.pdf)
  [RESUMENES DE PRESENTACIONES] :(https://github.com/KarymeGauna/Mineria_de_datos/blob/master/resumenes_1819032...pdf)
 [MAPA MENTAL 2] : (https://github.com/KarymeGauna/Mineria_de_datos/blob/master/mapa%20mental_2_1819032.docx.pdf)
-[ANALISIS BD] : (https://github.com/KarymeGauna/Mineria_de_datos/blob/master/An%C3%A1lisisBD_1819032.docx)
+[ANALISIS BD] : (https://github.com/KarymeGauna/Mineria_de_datos/blob/master/An%C3%A1lisisBD_1819032.pdf)
