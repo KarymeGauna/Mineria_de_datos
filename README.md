@@ -6,3 +6,4 @@
 [MAPA MENTAL 2] : (https://github.com/KarymeGauna/Mineria_de_datos/blob/master/mapa%20mental_2_1819032.docx.pdf)
 [ANALISIS BD] : (https://github.com/KarymeGauna/Mineria_de_datos/blob/master/An%C3%A1lisisBD_1819032.pdf)
 [EJERCICIOS BÁSICOS DE PYHTON] :(https://github.com/KarymeGauna/Mineria_de_datos/blob/master/PytonBasico_1819032.ipynb)
+[1AVACE_PIA] :(https://github.com/Anahi-Aleman/Mineria-de-Datos/blob/master/Avance1_PIA_04_03.pdf)
