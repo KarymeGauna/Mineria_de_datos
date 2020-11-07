@@ -7,3 +7,4 @@
 [ANALISIS BD] : (https://github.com/KarymeGauna/Mineria_de_datos/blob/master/An%C3%A1lisisBD_1819032.pdf)
 [EJERCICIOS BÁSICOS DE PYHTON] :(https://github.com/KarymeGauna/Mineria_de_datos/blob/master/PytonBasico_1819032.ipynb)
 [1AVACE_PIA] :(https://github.com/Anahi-Aleman/Mineria-de-Datos/blob/master/Avance1_PIA_04_03.pdf)
+[AVANCE 2_PIA]:(https://github.com/Anahi-Aleman/Mineria-de-Datos/blob/master/Ejercicios%20de%20programaci%C3%B3n%20de%20Python%20herramientas%20de%20miner%C3%ADa%20de%20datos_Eq04_Gpo03.ipynb)
