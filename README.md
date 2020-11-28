@@ -22,5 +22,4 @@ ETAPA2
 ETAPA 3
 
 [POSTER BORRADOR] : (https://github.com/Anahi-Aleman/Mineria-de-Datos/blob/master/COVID19.pdf)
-
 [AVANCE PIA 2]: (https://github.com/Anahi-Aleman/Mineria-de-Datos/blob/master/Ejercicios%20de%20programaci%C3%B3n%20de%20Python%20herramientas%20de%20miner%C3%ADa%20de%20datos_Eq04_Gpo03.ipynb)
